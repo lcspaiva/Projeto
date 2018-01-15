@@ -1,1 +1,2 @@
--Em desenvolvimento
+Usando Spacy + pt_core_news_sm
+
